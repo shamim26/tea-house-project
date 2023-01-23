@@ -1,24 +1,32 @@
-.btn-primary{
-    color: white;
-    background-image: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
-    border-radius: 10px;
-    padding: 16px 20px;
+.btn-primary {
+  color: white;
+  background-image: linear-gradient(270deg, #ff0000 0%, #ff8938 100%);
+  border-radius: 10px;
+  padding: 16px 20px;
 }
-.btn-secondary{
-    color: #FF8938;
-    background-color: white;
-    border-radius: 10px;
-    padding: 14px 25px;
+.btn-secondary {
+  background: -webkit-linear-gradient(270deg, #ff0000 0%, #ff8938 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 12px 25px;
 }
-.feature-product{
-    background-image: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
-    border-radius: 10px;
+.feature-product {
+  background-image: linear-gradient(
+    180deg,
+    #f4f4f4 0%,
+    rgba(244, 244, 244, 0) 100%
+  );
+  border-radius: 10px;
 }
-.footer{
-    background-image:  linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+.footer {
+  background-image: linear-gradient(
+    270deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 137, 56, 0.1) 100%
+  );
 }
-.fa-brands{
-    font-size: 30px;
-    padding-top: 10px;
-    padding-right: 10px;
+.fa-brands {
+  font-size: 30px;
+  padding-top: 10px;
+  padding-right: 10px;
 }
